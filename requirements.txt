@@ -1,0 +1,35 @@
+# Video Processing
+moviepy>=1.0.3
+opencv-python>=4.8.0
+
+# Audio Processing
+librosa>=0.10.0
+pydub>=0.25.0
+
+# Speech Recognition
+openai-whisper>=20231117
+SpeechRecognition>=3.10.0
+
+# AI/ML Framework
+torch>=2.0.0
+transformers>=4.30.0
+
+# Subtitle Processing
+pysrt>=1.1.2
+webvtt-py>=0.4.6
+
+# Language Detection & Translation
+langdetect>=1.0.9
+googletrans>=4.0.0rc1
+
+# Utilities
+numpy>=1.21.0
+pandas>=1.5.0
+tqdm>=4.64.0
+click>=8.0.0
+python-dotenv>=1.0.0
+
+# Additional dependencies
+ffmpeg-python>=0.2.0
+scipy>=1.9.0
+matplotlib>=3.5.0
